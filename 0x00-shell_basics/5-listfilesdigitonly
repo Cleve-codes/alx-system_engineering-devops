@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ls {0..9}* {'.'}*
+echo ls [0-9]*
