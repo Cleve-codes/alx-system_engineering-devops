@@ -15,3 +15,4 @@ Rotation 13 encryption
 Odd
 Stir and Water
 Alias
+Combinations
