@@ -10,3 +10,4 @@ Love
 Binary to decimal
 Combinations
 Print float 
+Decimal to hexadecimal
