@@ -11,3 +11,4 @@ Binary to decimal
 Combinations
 Print float 
 Decimal to hexadecimal
+Rotation 13 encryption
