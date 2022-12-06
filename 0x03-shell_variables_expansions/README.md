@@ -7,3 +7,4 @@ Creating global varibale
 True KNowledge
 Divide and rule
 Love
+Binary to decimal
