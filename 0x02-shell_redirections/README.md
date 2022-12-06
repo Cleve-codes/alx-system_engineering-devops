@@ -9,3 +9,4 @@ Task 21 reverse
 Task 22 final task
 Task 15
 Directories
+Count that word
