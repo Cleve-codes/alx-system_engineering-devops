@@ -9,3 +9,4 @@ Divide and rule
 Love
 Binary to decimal
 Combinations
+Print float 
