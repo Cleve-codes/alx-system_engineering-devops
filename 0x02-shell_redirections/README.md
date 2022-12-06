@@ -1,1 +1,2 @@
-etc/passwd
+Hello world
+Confused smiley
