@@ -15,3 +15,4 @@ Task 23
 Acrostic
 Biggest fan
 GIfs
+Count word
